@@ -30,7 +30,7 @@ const ogLocales: Record<string, string> = {
 
 const defaultAlternates = alternates || allLangs.map((l) => ({
   lang: l,
-  url: currentPath.replace(/^\/(fr|en|es|pt|it)/, `/${l}`),
+  url: currentPath.match(/\/(guide|review|compare)\//) ? `/${l}/` : currentPath.replace(/^\/(fr|en|es|pt|it)/, `/${l}`),
 }));
 ---
 

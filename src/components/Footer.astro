@@ -40,6 +40,10 @@ function getPathForLang(targetLang: string): string {
     const alt = alternates.find((a) => a.lang === targetLang);
     if (alt) return alt.url;
   }
+  // If on a guide/review/compare page with no translation, link to lang homepage
+  if (currentPath.match(/\/(guide|review|compare)\//)) {
+    return `/${targetLang}/`;
+  }
   const pathWithoutLang = currentPath.replace(/^\/(fr|en|es|pt|it)/, '');
   return `/${targetLang}${pathWithoutLang || '/'}`;
 }

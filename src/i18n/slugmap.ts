@@ -35,14 +35,14 @@ export const guideSlugMap: Record<string, Record<string, string>> = {
   },
   'block-unknown-callers': {
     en: 'block-unknown-callers',
-    fr: 'bloquer-appels-inconnus',
-    es: 'bloquear-llamadas-desconocidas',
-    pt: 'bloquear-chamadas-desconhecidas',
-    it: 'bloccare-chiamate-sconosciute',
-  },
-  'cant-hear-phone-call': {
-    en: 'cant-hear-phone-call',
-    fr: 'pas-de-son-appel-telephone',
+
+
+
+
+
+
+
+
     es: 'no-se-oye-llamada-telefono',
     pt: 'nao-se-ouve-chamada-telefone',
     it: 'non-si-sente-chiamata-telefono',
@@ -511,8 +511,9 @@ export function getContentAlternates(
   }
 
   if (!translationKey || !map[translationKey]) {
-    const langs = ['fr', 'en', 'es', 'pt', 'it'];
-    return langs.map((l) => ({ lang: l, url: `/${l}/${prefix}/${currentSlug}/` }));
+    return [{ lang: currentLang, url: `/${currentLang}/${prefix}/${currentSlug}/` }];
+
+
   }
 
   const slugs = map[translationKey];
