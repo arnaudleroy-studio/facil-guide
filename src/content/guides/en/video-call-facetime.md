@@ -1,63 +1,70 @@
 ---
-title: "How to Make a FaceTime Video Call"
-description: "Learn how to video call someone using FaceTime on your iPhone or iPad, step by step."
-lang: "en"
-category: "smartphone"
+title: "How to make a FaceTime video call on iPhone"
+description: "Learn how to start a FaceTime video call on your iPhone to see and talk to family and friends."
+category: "communication"
+steps: 6
 difficulty: "facile"
-steps: 4
 platform: "iphone"
-date: "2026-02-22"
+lang: "en"
+date: "2026-02-23"
 faq:
   - question: "Is FaceTime free?"
-    answer: "Yes, FaceTime is completely free. It uses your internet connection (Wi-Fi or mobile data), not your phone minutes. If you are on mobile data, it will use some of your data allowance."
+    answer: "Yes. FaceTime is completely free. It uses your Wi-Fi or mobile data connection, so there is no extra charge from Apple. If you are on mobile data, normal data charges from your phone plan may apply."
   - question: "Can I FaceTime someone who has an Android phone?"
-    answer: "Not directly from the FaceTime app. FaceTime only works between Apple devices (iPhone, iPad, Mac). To video call someone with an Android phone, use WhatsApp, Google Meet, or Zoom instead."
-  - question: "Why is my FaceTime video blurry?"
-    answer: "This usually means your internet connection is slow. Try moving closer to your Wi-Fi router, or switch from mobile data to Wi-Fi. Also make sure your camera lens is clean."
-  - question: "Can I FaceTime without showing my face?"
-    answer: "Yes. You can make an audio-only FaceTime call by selecting the phone icon instead of the video icon. You can also turn off your camera during a video call by tapping the camera button."
+    answer: "Not directly from the FaceTime app in the usual way. However, you can create a FaceTime link and share it with an Android user, who can then join through their web browser."
+  - question: "What do I need for FaceTime?"
+    answer: "You need an iPhone (or iPad or Mac) with an internet connection. The person you are calling also needs an Apple device with FaceTime, or they can join via a shared link in a web browser."
+  - question: "Can I make a group FaceTime call?"
+    answer: "Yes. You can add up to 32 people to a FaceTime call. Just tap the Add Person button during a call to invite more people."
 ---
 
-## What You Will Need
+## What you will learn
 
-- An iPhone or iPad
-- A Wi-Fi or mobile data connection
-- The other person must also have an Apple device (iPhone, iPad, or Mac)
+In this guide, you will learn how to make a video call using FaceTime on your iPhone. FaceTime lets you see the person you are talking to on your screen while they see you. It is a great way to stay in touch with family and friends.
 
-## Step 1: Open the FaceTime App
+## What you need
 
-Find the **FaceTime** app on your home screen. It is a green icon with a white video camera.
+- An iPhone with an internet connection (Wi-Fi or mobile data)
+- The person you want to call must also have an Apple device (iPhone, iPad, or Mac) or a FaceTime link
 
-Tap it to open.
+## The steps
 
-## Step 2: Choose Who to Call
+### Step 1: Open the FaceTime app
 
-At the top of the screen, tap **New FaceTime** or the **+** button.
+Find and tap the **FaceTime** app on your home screen. It has a green icon with a white video camera. If you cannot find it, swipe down on your home screen and type **"FaceTime"** in the search bar.
 
-Type the **name** or **phone number** of the person you want to call. Their name will appear below the search box. Tap their name.
+### Step 2: Tap New FaceTime
 
-You can also find them in your recent calls list and tap their name there.
+At the top of the screen, tap the **"New FaceTime"** button. A new screen will appear where you can choose who to call.
 
-## Step 3: Start the Video Call
+### Step 3: Type the name or number of the person
 
-You will see two buttons:
+In the **"To:"** field at the top, type the name of the person you want to call (if they are in your contacts) or type their phone number or email address. Tap their name when it appears in the suggestions below.
 
-- **Video** (camera icon) -- for a video call
-- **Audio** (phone icon) -- for a voice-only call
+### Step 4: Start the video call
 
-Tap the **Video** button to start the video call. Your phone will ring the other person.
+Tap the green **"FaceTime"** button to start the video call. Your iPhone will ring the other person. Wait for them to answer.
 
-Wait for them to answer. You will see your own face in a small window in the corner, and their face will fill the screen.
+### Step 5: Talk and see each other
 
-## Step 4: End the Call
+Once the other person answers, you will see their face on your screen and they will see yours. The large image shows the other person, and a small image in the corner shows what your camera is sending.
 
-When you are finished talking, tap the **red button** at the bottom of the screen to hang up.
+- To **switch cameras** (front to back), tap the camera flip button (two arrows forming a circle)
+- To **mute your microphone**, tap the microphone button
+- To **turn off your camera** temporarily, tap the camera button
 
-**During the call, you can also:**
-- **Mute your microphone:** Tap the microphone icon
-- **Turn off your camera:** Tap the camera icon
-- **Flip the camera:** Tap the flip icon to show what is in front of you instead of your face
+### Step 6: End the call
 
-## You Did It!
+When you are finished talking, tap the red **End** button (a red circle with a phone icon) to hang up.
 
-You made a FaceTime video call. It is a great way to see family and friends, especially if they live far away.
+## Helpful tips
+
+- **Use Wi-Fi when possible**: Video calls use more data than regular calls. Connect to Wi-Fi to avoid using your mobile data.
+- **Good lighting**: Sit facing a window or light source so the other person can see you clearly.
+- **Hold your phone steady**: Rest your phone against something or hold it at eye level for a comfortable conversation.
+- **FaceTime Audio**: If you want to call without video, tap the phone icon instead of the video icon when starting the call.
+
+## Useful links
+
+- [Use FaceTime on your iPhone - Apple Support](https://support.apple.com/en-us/111384)
+- [Make a Group FaceTime call - Apple Support](https://support.apple.com/en-us/111385)

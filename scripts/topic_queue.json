@@ -1,24 +1,6 @@
 {
   "queue": [
     {
-      "slug": "video-call-facetime",
-      "category": "communication",
-      "priority": 2,
-      "description": "How to make a FaceTime video call on iPhone"
-    },
-    {
-      "slug": "use-uber",
-      "category": "applications",
-      "priority": 2,
-      "description": "How to book a ride with Uber on your phone"
-    },
-    {
-      "slug": "set-up-email-android",
-      "category": "communication",
-      "priority": 2,
-      "description": "How to set up your email on an Android phone"
-    },
-    {
       "slug": "use-spotify",
       "category": "applications",
       "priority": 2,
@@ -288,6 +270,18 @@
     },
     {
       "slug": "use-google-pay",
+      "date": "2026-02-23"
+    },
+    {
+      "slug": "video-call-facetime",
+      "date": "2026-02-23"
+    },
+    {
+      "slug": "use-uber",
+      "date": "2026-02-23"
+    },
+    {
+      "slug": "set-up-email-android",
       "date": "2026-02-23"
     }
   ],

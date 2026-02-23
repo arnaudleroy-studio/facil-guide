@@ -1,89 +1,81 @@
 ---
-title: "How to Book a Ride with Uber"
-description: "Learn how to use the Uber app to request a car to pick you up, step by step."
-lang: "en"
+title: "How to book a ride with Uber on your phone"
+description: "Learn how to download Uber, set up your account, and book your first ride step by step."
 category: "applications"
+steps: 7
 difficulty: "facile"
-steps: 6
-platform: "iphone"
-date: "2026-02-22"
+platform: "all"
+lang: "en"
+date: "2026-02-23"
 faq:
-  - question: "How much does Uber cost?"
-    answer: "The price depends on the distance, time of day, and demand. Before you confirm a ride, the app shows you the estimated price so there are no surprises."
-  - question: "Do I need cash?"
-    answer: "No. Uber charges the card you added to the app automatically after the ride. You do not need to give the driver any money."
-  - question: "How do I know which car is mine?"
-    answer: "After you request a ride, the app shows you the driver's name, photo, car color, car model, and license plate number. Match the license plate before getting in."
+  - question: "How much does an Uber ride cost?"
+    answer: "The price depends on the distance, the time of day, and demand in your area. Uber shows you the estimated price before you confirm the ride, so there are no surprises."
+  - question: "Do I need cash to pay?"
+    answer: "No. Uber accepts credit cards, debit cards, and in some countries, PayPal or other digital payment methods. You add your payment method when you set up your account."
+  - question: "Is Uber safe?"
+    answer: "Uber has safety features including driver ratings, license plate verification, trip sharing with family, and an emergency button in the app. You can always see your driver's name, photo, and car details before the ride."
   - question: "Can I book a ride for someone else?"
-    answer: "Yes. When entering the destination, look for the option 'Ride is for someone else.' You can enter their phone number so the driver contacts them instead."
+    answer: "Yes. When entering the destination, you can change the pickup location to a different address and send the ride details to another person."
   - question: "What if I left something in the car?"
-    answer: "Open the Uber app, go to your trip history, select the ride, and tap 'I lost an item.' The app will help you contact the driver."
+    answer: "Open the Uber app, go to Your Trips, select the ride, and tap Lost Item. The app will help you contact the driver."
 ---
 
-## What You Will Need
+## What you will learn
 
-- Your iPhone or Android phone
-- The Uber app (free from App Store or Google Play)
-- A payment method (credit card, debit card, or PayPal) added to your account
+In this guide, you will learn how to use the Uber app to book a car ride from your phone. Uber connects you with nearby drivers who will pick you up and take you where you need to go. You do not need to call a taxi or carry cash.
 
-## Step 1: Download and Set Up Uber
+## What you need
 
-If you do not have the app yet:
+- A smartphone (iPhone or Android)
+- An internet connection (Wi-Fi or mobile data)
+- A credit card, debit card, or digital payment method
+- A phone number for account verification
 
-1. Go to the **App Store** (iPhone) or **Play Store** (Android)
-2. Search for **Uber**
-3. Tap **Get** or **Install**
-4. Open the app and create an account with your phone number and email
-5. Add a payment method (credit card, debit card, or PayPal)
+## The steps
 
-## Step 2: Enter Your Destination
+### Step 1: Download the Uber app
 
-Open the Uber app. At the top, you will see a search box that says **Where to?**
+Open the **App Store** (iPhone) or **Google Play Store** (Android). Search for **"Uber"** and tap **"Install"** or **"Get"**. Wait for the app to download and then open it.
 
-Tap it and type where you want to go. For example: "Airport" or "123 Main Street."
+### Step 2: Create your account
 
-Select the correct address from the suggestions.
+Tap **"Continue"** and enter your **phone number**. Uber will send you a verification code by text message. Type the code to confirm your number. Then enter your **name** and **email address**.
 
-## Step 3: Choose Your Ride Type
+### Step 3: Add a payment method
 
-The app will show you different ride options:
+Tap the menu icon or go to **"Payment"** in the app. Tap **"Add Payment Method"**. Enter your credit card or debit card details. The card will be charged automatically after each ride -- you do not need to pay the driver directly.
 
-- **UberX:** A regular car, the cheapest option
-- **Uber Comfort:** A newer, more spacious car
-- **Uber XL:** A larger vehicle for groups of 5-6 people
+### Step 4: Enter your destination
 
-Each option shows the **estimated price** and **arrival time**. Tap the one you want.
+On the main screen, tap the **"Where to?"** box. Type the address or name of the place you want to go. Select it from the suggestions that appear.
 
-## Step 4: Confirm Your Pickup Location
+### Step 5: Choose your ride type and confirm
 
-The app uses your phone's location to set where the car will pick you up. Check the map to make sure the pin is in the right spot.
+Uber will show you different ride options with estimated prices:
 
-If it is not correct, tap the pin and drag it to the right location, or type a specific address.
+- **UberX**: A standard car, the most affordable option
+- **Uber Comfort**: A newer car with extra legroom
+- **UberXL**: A larger car for groups of up to 6 people
 
-## Step 5: Request the Ride
+Select the option you prefer and tap **"Confirm UberX"** (or whichever type you chose). A nearby driver will be assigned to your ride.
 
-Tap the **Confirm** button (or **Request UberX**).
+### Step 6: Wait for your driver
 
-The app will find a driver near you. You will see:
+The app will show you the driver's name, photo, car model, and license plate number. You can see the car moving on the map as it approaches your location. When the driver arrives, walk to the car and verify the license plate matches what the app shows.
 
-- **Driver's name and photo**
-- **Car model, color, and license plate**
-- **Estimated arrival time**
+### Step 7: Ride and rate your driver
 
-Wait at your pickup location. You can track the car on the map in real time.
+Get in the car and enjoy the ride. The app tracks the route automatically. When you arrive at your destination, the payment is processed automatically from your saved card. After the ride, the app will ask you to rate the driver with 1 to 5 stars.
 
-## Step 6: Take Your Ride
+## Helpful tips
 
-When the car arrives:
+- **Share your trip**: Tap the shield icon during a ride to share your live location and trip details with a family member or friend.
+- **Schedule a ride**: You can book a ride in advance by tapping the clock icon next to "Where to?" and selecting a future date and time.
+- **Save frequent places**: Tap **"Home"** or **"Work"** in the app to save these addresses for quick booking.
+- **Check the price first**: Uber always shows the estimated fare before you confirm. If the price seems high, wait a few minutes and check again -- prices change with demand.
 
-1. **Check the license plate** matches what the app shows
-2. **Confirm the driver's name** by asking "Are you [name]?"
-3. Get in the car
+## Useful links
 
-The driver already knows where you are going. You do not need to give directions.
-
-When you arrive, simply get out. The payment is automatic -- no cash needed.
-
-## You Did It!
-
-You booked and completed an Uber ride. The app saves your trip history and receipts, and you can rate your driver after the ride.
+- [Uber Help Center](https://help.uber.com/)
+- [Download Uber on App Store](https://apps.apple.com/app/uber/id368677368)
+- [Download Uber on Google Play](https://play.google.com/store/apps/details?id=com.ubercab)
