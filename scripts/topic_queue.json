@@ -288,7 +288,19 @@
     {
       "slug": "use-facebook",
       "date": "2026-02-23"
+    },
+    {
+      "slug": "use-whatsapp-group",
+      "date": "2026-02-24"
+    },
+    {
+      "slug": "use-calendar-phone",
+      "date": "2026-02-24"
+    },
+    {
+      "slug": "adjust-volume-phone",
+      "date": "2026-02-24"
     }
   ],
-  "last_batch": "2026-02-23"
+  "last_batch": "2026-02-24"
 }

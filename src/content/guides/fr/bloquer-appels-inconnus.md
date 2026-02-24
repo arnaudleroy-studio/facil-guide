@@ -1,66 +1,66 @@
 ---
-title: "Comment bloquer les appels spam et les numeros inconnus sur votre telephone"
-description: "Apprenez a bloquer les appels indesirables, les numeros inconnus et les appels automatises sur iPhone et Android avec des reglages simples."
-category: "troubleshooting"
-steps: 6
-difficulty: "facile"
-platform: "iphone"
+title: "Comment bloquer les appels indésirables et les numéros inconnus sur votre téléphone"
+description: "Apprenez à bloquer les appels inconnus, les appels indésirables et les démarchages téléphoniques sur iPhone et Android grâce à des réglages simples."
 lang: "fr"
-date: "2026-02-20"
+category: "troubleshooting"
+difficulty: "facile"
+steps: 6
+platform: "iphone"
+date: "2026-02-24"
 faq:
   - question: "Bloquer les appels inconnus va-t-il bloquer des appels importants ?"
-    answer: "C'est possible. Si un medecin, un livreur ou un autre service vous appelle depuis un numero inconnu, l'appel ira sur la messagerie vocale. Ils peuvent toujours laisser un message et vous pouvez les rappeler."
-  - question: "Que se passe-t-il avec les appels bloques ?"
-    answer: "Les appels bloques sont envoyes directement sur la messagerie vocale. L'appelant peut laisser un message, mais votre telephone ne sonnera pas. Vous ne verrez pas de notification d'appel manque."
-  - question: "Puis-je debloquer un numero plus tard ?"
-    answer: "Oui. Sur iPhone, allez dans Reglages, puis Telephone, puis Contacts bloques pour voir votre liste. Sur Android, ouvrez l'application Telephone, allez dans Parametres, puis Numeros bloques. Vous pouvez retirer n'importe quel numero de la liste."
-  - question: "Ai-je besoin d'une application pour bloquer les appels spam ?"
-    answer: "Pas necessairement. L'iPhone et l'Android ont des outils integres pour bloquer les appels inconnus et signaler les spams. Cependant, des applications comme Truecaller peuvent identifier les appelants par nom, ce que les outils integres ne font pas."
+    answer: "C'est possible. Si un médecin, un livreur ou un autre service vous appelle depuis un numéro inconnu, l'appel ira sur la messagerie vocale. Ils pourront laisser un message et vous pourrez les rappeler."
+  - question: "Que se passe-t-il avec les appels bloqués ?"
+    answer: "Les appels bloqués sont envoyés directement sur la messagerie vocale. L'appelant peut laisser un message, mais votre téléphone ne sonnera pas. Vous ne verrez pas de notification d'appel manqué."
+  - question: "Puis-je débloquer un numéro plus tard ?"
+    answer: "Oui. Sur iPhone, allez dans Réglages, puis Téléphone, puis Contacts bloqués pour voir votre liste. Sur Android, ouvrez l'application Téléphone, allez dans Paramètres, puis Numéros bloqués. Vous pouvez retirer n'importe quel numéro de la liste."
+  - question: "Ai-je besoin d'une application pour bloquer les appels indésirables ?"
+    answer: "Pas forcément. iPhone et Android disposent d'outils intégrés pour bloquer les appelants inconnus et signaler les indésirables. Cependant, des applications comme Truecaller peuvent identifier les appelants par leur nom, ce que les outils intégrés ne font pas."
 ---
 
 ## Ce que vous allez apprendre
 
-Dans ce guide, vous apprendrez comment empecher les appels indesirables d'atteindre votre telephone. Vous activerez des fonctions integrees qui bloquent les numeros inconnus et les appels spam, pour que votre telephone ne sonne que lorsque quelqu'un que vous connaissez vous appelle.
+Dans ce guide, vous apprendrez à empêcher les appels indésirables d'atteindre votre téléphone. Vous activerez des fonctions intégrées qui bloquent les numéros inconnus et les appels indésirables, pour que votre téléphone ne sonne que quand une personne que vous connaissez vous appelle.
 
 ## Ce dont vous avez besoin
 
-- Votre telephone (iPhone ou Android)
+- Votre téléphone (iPhone ou Android)
 - Environ 3 minutes
 
-## Les etapes
+## Les étapes
 
-### Etape 1 : Activer le silence pour les appels inconnus sur iPhone
+### Étape 1 : Activer le silence des appels inconnus sur iPhone
 
-Sur iPhone, ouvrez **Reglages** et appuyez sur **Telephone**. Faites defiler vers le bas et appuyez sur **Appels d'inconnus silencieux**. Activez l'option. Desormais, tout appel provenant d'un numero qui n'est pas dans vos contacts sera envoye silencieusement sur la messagerie vocale.
+Sur iPhone, ouvrez **Réglages** et appuyez sur **Téléphone**. Faites défiler vers le bas et appuyez sur **Appels de numéros inconnus**. Activez l'interrupteur. Désormais, tout appel provenant d'un numéro qui n'est pas dans vos contacts sera envoyé silencieusement sur la messagerie vocale.
 
-### Etape 2 : Activer le filtrage des appels spam sur Android
+### Étape 2 : Activer le filtrage des appels indésirables sur Android
 
-Sur Android, ouvrez l'application **Telephone** (celle que vous utilisez pour passer des appels). Appuyez sur les **trois points** dans le coin superieur droit et choisissez **Parametres**. Cherchez **Identification de l'appelant et spam** ou **Protection contre le spam** et activez l'option. Votre telephone vous avertira lorsqu'un appel suspect arrive.
+Sur Android, ouvrez l'application **Téléphone** (celle que vous utilisez pour passer des appels). Appuyez sur les **trois points** en haut à droite et choisissez **Paramètres**. Cherchez **Identification de l'appelant et spam** ou **Protection contre le spam** et activez cette option. Votre téléphone vous préviendra quand un appel suspect est en cours.
 
-### Etape 3 : Bloquer un numero specifique dont vous avez deja recu un appel
+### Étape 3 : Bloquer un numéro spécifique que vous avez déjà reçu
 
-Ouvrez votre application **Telephone** et allez dans **Recents** (votre liste d'appels recents). Trouvez le numero que vous souhaitez bloquer. Sur iPhone, appuyez sur l'icone **i** a cote du numero, faites defiler vers le bas et appuyez sur **Bloquer ce correspondant**. Sur Android, appuyez longuement sur le numero, puis appuyez sur **Bloquer** ou **Bloquer le numero**.
+Ouvrez votre application **Téléphone** et allez dans **Récents** (votre liste d'appels récents). Trouvez le numéro que vous voulez bloquer. Sur iPhone, appuyez sur l'icône **i** à côté du numéro, faites défiler vers le bas et appuyez sur **Bloquer ce correspondant**. Sur Android, appuyez longuement sur le numéro, puis appuyez sur **Bloquer** ou **Bloquer le numéro**.
 
-### Etape 4 : Signaler les appels spam
+### Étape 4 : Signaler les appels indésirables
 
-Lorsque vous recevez un appel spam, le signaler aide votre telephone et votre operateur a ameliorer leurs filtres. Sur Android, apres un appel suspect, vous pouvez voir une option **Signaler comme spam** -- appuyez dessus. Sur iPhone, il n'y a pas de signalement integre, mais votre operateur peut avoir un service (par exemple, transferer les SMS spam au 33700 en France).
+Quand vous recevez un appel indésirable, le signaler aide votre téléphone et votre opérateur à améliorer leurs filtres. Sur Android, après un appel suspect, vous pouvez voir une option pour **Signaler comme spam** -- appuyez dessus. Sur iPhone, il n'y a pas de signalement intégré, mais votre opérateur peut proposer un service (par exemple, transférer les SMS indésirables au 33700 en France).
 
-### Etape 5 : S'inscrire sur la liste Bloctel
+### Étape 5 : S'inscrire sur la liste d'opposition au démarchage
 
-En France, le service **Bloctel** (bloctel.gouv.fr) permet de reduire les appels de demarchage telephonique. Inscrivez votre numero sur le site. Les entreprises ont l'obligation legale de ne plus vous appeler une fois inscrit.
+De nombreux pays ont des registres officiels qui réduisent les appels commerciaux. En France, inscrivez-vous sur [Bloctel](https://www.bloctel.gouv.fr). En Belgique, consultez la liste Ne m'appelez plus. En Suisse, inscrivez-vous sur la liste Robinson.
 
-### Etape 6 : Verifier votre liste de contacts bloques
+### Étape 6 : Vérifier votre liste de contacts bloqués
 
-Pour voir qui vous avez bloque, allez dans **Reglages**, puis **Telephone**, puis **Contacts bloques** sur iPhone. Sur Android, ouvrez l'application **Telephone**, allez dans **Parametres**, puis **Numeros bloques**. Retirez tout numero que vous auriez bloque par erreur.
+Pour voir qui vous avez bloqué, allez dans **Réglages**, puis **Téléphone**, puis **Contacts bloqués** sur iPhone. Sur Android, ouvrez l'application **Téléphone**, allez dans **Paramètres**, puis **Numéros bloqués**. Retirez tout numéro que vous avez bloqué par erreur.
 
 ## Conseils
 
-- Enregistrez les numeros importants comme votre medecin, votre pharmacie et votre banque dans vos contacts pour que leurs appels passent toujours.
-- Si vous attendez un appel d'un numero inconnu (comme une livraison), desactivez temporairement le silence des appels inconnus jusqu'a ce que l'appel arrive.
-- Soyez prudent avec les applications qui promettent de bloquer tous les spams -- certaines collectent vos donnees. Preferez des applications connues comme Truecaller si vous voulez une protection supplementaire.
+- Enregistrez les numéros importants comme votre médecin, votre pharmacie et votre banque dans vos contacts pour que leurs appels passent toujours.
+- Si vous attendez un appel d'un numéro inconnu (comme une livraison), désactivez temporairement le silence des appels inconnus jusqu'à ce que l'appel arrive.
+- Soyez prudent avec les applications qui promettent de bloquer tous les indésirables -- certaines collectent vos données. Utilisez des applications reconnues comme Truecaller si vous voulez une protection supplémentaire.
 
 ## Liens utiles
 
 - [Silence des appels inconnus sur iPhone - Assistance Apple](https://support.apple.com/fr-fr/111876)
-- [Bloquer ou signaler des appels spam sur Android - Aide Google](https://support.google.com/phoneapp/answer/6325463?hl=fr)
-- [Bloctel - Opposition au demarchage telephonique](https://www.bloctel.gouv.fr)
+- [Bloquer ou signaler les appels indésirables sur Android - Aide Google](https://support.google.com/phoneapp/answer/6325463)
+- [Bloctel - Opposition au démarchage téléphonique](https://www.bloctel.gouv.fr)
