@@ -300,6 +300,18 @@
     {
       "slug": "adjust-volume-phone",
       "date": "2026-02-24"
+    },
+    {
+      "slug": "use-telegram",
+      "date": "2026-02-24"
+    },
+    {
+      "slug": "set-up-screen-lock",
+      "date": "2026-02-24"
+    },
+    {
+      "slug": "send-location-whatsapp",
+      "date": "2026-02-24"
     }
   ],
   "last_batch": "2026-02-24"
