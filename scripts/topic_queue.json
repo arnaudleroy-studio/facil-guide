@@ -360,7 +360,19 @@
     {
       "slug": "set-up-medication-reminder",
       "date": "2026-02-25"
+    },
+    {
+      "slug": "set-up-new-phone",
+      "date": "2026-02-26"
+    },
+    {
+      "slug": "use-password-manager",
+      "date": "2026-02-26"
+    },
+    {
+      "slug": "connect-hearing-aid-phone",
+      "date": "2026-02-26"
     }
   ],
-  "last_batch": "2026-02-25"
+  "last_batch": "2026-02-26"
 }
