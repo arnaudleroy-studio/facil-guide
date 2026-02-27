@@ -396,7 +396,19 @@
     {
       "slug": "use-health-app-iphone",
       "date": "2026-02-26"
+    },
+    {
+      "slug": "use-icloud-photos",
+      "date": "2026-02-27"
+    },
+    {
+      "slug": "listen-to-podcasts",
+      "date": "2026-02-27"
+    },
+    {
+      "slug": "record-screen-phone",
+      "date": "2026-02-27"
     }
   ],
-  "last_batch": "2026-02-26"
+  "last_batch": "2026-02-27"
 }
