@@ -444,6 +444,18 @@
     {
       "slug": "use-whatsapp-call",
       "date": "2026-02-28"
+    },
+    {
+      "slug": "enlarge-keyboard-phone",
+      "date": "2026-02-28"
+    },
+    {
+      "slug": "block-spam-emails",
+      "date": "2026-02-28"
+    },
+    {
+      "slug": "send-video-message-whatsapp",
+      "date": "2026-02-28"
     }
   ],
   "last_batch": "2026-02-28"
