@@ -432,7 +432,19 @@
     {
       "slug": "create-whatsapp-broadcast",
       "date": "2026-02-27"
+    },
+    {
+      "slug": "use-banking-app",
+      "date": "2026-02-28"
+    },
+    {
+      "slug": "set-up-automatic-updates",
+      "date": "2026-02-28"
+    },
+    {
+      "slug": "use-whatsapp-call",
+      "date": "2026-02-28"
     }
   ],
-  "last_batch": "2026-02-27"
+  "last_batch": "2026-02-28"
 }
