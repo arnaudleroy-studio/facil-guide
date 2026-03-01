@@ -456,7 +456,19 @@
     {
       "slug": "send-video-message-whatsapp",
       "date": "2026-02-28"
+    },
+    {
+      "slug": "shop-online-safely",
+      "date": "2026-03-01"
+    },
+    {
+      "slug": "set-up-emergency-sos",
+      "date": "2026-03-01"
+    },
+    {
+      "slug": "translate-text-with-camera",
+      "date": "2026-03-01"
     }
   ],
-  "last_batch": "2026-02-28"
+  "last_batch": "2026-03-01"
 }
