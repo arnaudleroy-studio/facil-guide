@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "created": "2026-03-06",
+    "total": 70,
+    "languages": [
+      "en",
+      "fr",
+      "es",
+      "pt",
+      "it"
+    ],
+    "schedule": "10 per day starting 2026-03-06",
+    "status": "in-progress"
+  },
+  "batches": [
+    {
+      "day": 1,
+      "date": "2026-03-06",
+      "category": "ordinateur",
+      "status": "done",
+      "topics": [
+        {
+          "slug": "what-is-desktop-laptop",
+          "title": "What Is the Difference Between a Desktop and a Laptop"
+        },
+        {
+          "slug": "connect-printer-computer",
+          "title": "How to Connect a Printer to Your Computer"
+        },
+        {
+          "slug": "copy-paste-text-computer",
+          "title": "How to Copy and Paste Text on a Computer"
+        },
+        {
+          "slug": "take-screenshot-computer",
+          "title": "How to Take a Screenshot on Your Computer"
+        },
+        {
+          "slug": "install-program-windows",
+          "title": "How to Install a Program on Windows"
+        },
+        {
+          "slug": "uninstall-program-windows",
+          "title": "How to Uninstall a Program on Windows"
+        },
+        {
+          "slug": "connect-computer-wifi",
+          "title": "How to Connect Your Computer to Wi-Fi"
+        },
+        {
+          "slug": "save-file-computer",
+          "title": "How to Save a File on Your Computer"
+        },
+        {
+          "slug": "find-files-computer",
+          "title": "How to Find Files on Your Computer"
+        },
+        {
+          "slug": "use-usb-drive",
+          "title": "How to Use a USB Flash Drive on Your Computer"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-03-07",
+      "category": "ia",
+      "status": "queued",
+      "topics": [
+        {
+          "slug": "what-is-ai-simple",
+          "title": "What Is Artificial Intelligence in Simple Terms"
+        },
+        {
+          "slug": "use-google-gemini",
+          "title": "How to Use Google Gemini AI"
+        },
+        {
+          "slug": "use-ai-write-email",
+          "title": "How to Use AI to Help You Write Emails"
+        },
+        {
+          "slug": "use-ai-translate-conversation",
+          "title": "How to Use AI to Translate a Live Conversation"
+        },
+        {
+          "slug": "use-copilot-windows",
+          "title": "How to Use Copilot on Windows"
+        },
+        {
+          "slug": "ai-photo-editing-phone",
+          "title": "How to Use AI Photo Editing on Your Phone"
+        },
+        {
+          "slug": "what-is-deepfake",
+          "title": "What Is a Deepfake and How to Spot One"
+        },
+        {
+          "slug": "use-ai-recipe-suggestions",
+          "title": "How to Use AI to Get Recipe Suggestions"
+        },
+        {
+          "slug": "ai-scams-how-to-spot",
+          "title": "How to Spot AI-Generated Scams"
+        },
+        {
+          "slug": "use-ai-summarize-article",
+          "title": "How to Use AI to Summarize a Long Article"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-03-08",
+      "category": "government",
+      "status": "queued",
+      "topics": [
+        {
+          "slug": "use-franceconnect",
+          "title": "How to Use FranceConnect to Access Government Websites"
+        },
+        {
+          "slug": "use-impots-gouv",
+          "title": "How to File Your Taxes Online on impots.gouv.fr"
+        },
+        {
+          "slug": "use-gov-uk",
+          "title": "How to Use GOV.UK for Government Services"
+        },
+        {
+          "slug": "use-spid-italy",
+          "title": "How to Get and Use SPID for Italian Digital Services"
+        },
+        {
+          "slug": "renew-id-card-online",
+          "title": "How to Renew Your ID Card or Passport Online"
+        },
+        {
+          "slug": "check-pension-online",
+          "title": "How to Check Your Pension Statement Online"
+        },
+        {
+          "slug": "use-autenticacao-gov-pt",
+          "title": "How to Use Autenticacao.gov.pt for Portuguese Services"
+        },
+        {
+          "slug": "book-government-appointment",
+          "title": "How to Book a Government Office Appointment Online"
+        },
+        {
+          "slug": "use-clave-pin-spain",
+          "title": "How to Use Cl@ve PIN for Spanish Government Services"
+        },
+        {
+          "slug": "download-official-documents",
+          "title": "How to Download Official Documents from Government Websites"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-03-09",
+      "category": "money",
+      "status": "queued",
+      "topics": [
+        {
+          "slug": "send-money-with-phone",
+          "title": "How to Send Money to Someone Using Your Phone"
+        },
+        {
+          "slug": "use-paypal",
+          "title": "How to Set Up and Use PayPal"
+        },
+        {
+          "slug": "use-revolut",
+          "title": "How to Set Up and Use Revolut on Your Phone"
+        },
+        {
+          "slug": "use-mbway",
+          "title": "How to Set Up and Use MB WAY for Payments"
+        },
+        {
+          "slug": "use-bizum-spain",
+          "title": "How to Set Up and Use Bizum for Payments in Spain"
+        },
+        {
+          "slug": "pay-contactless-phone",
+          "title": "How to Pay Contactless with Your Phone in a Store"
+        },
+        {
+          "slug": "check-bank-balance-phone",
+          "title": "How to Check Your Bank Balance on Your Phone"
+        },
+        {
+          "slug": "set-up-direct-debit",
+          "title": "How to Set Up a Direct Debit from Your Phone"
+        },
+        {
+          "slug": "split-bill-with-friends",
+          "title": "How to Split a Bill with Friends Using Your Phone"
+        },
+        {
+          "slug": "use-wise-transfer-money",
+          "title": "How to Use Wise to Send Money Abroad"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-03-10",
+      "category": "securite",
+      "status": "queued",
+      "topics": [
+        {
+          "slug": "what-is-phishing",
+          "title": "What Is Phishing and How to Protect Yourself"
+        },
+        {
+          "slug": "check-website-safe",
+          "title": "How to Check If a Website Is Safe Before Buying"
+        },
+        {
+          "slug": "what-is-vpn",
+          "title": "What Is a VPN and Do You Need One"
+        },
+        {
+          "slug": "secure-whatsapp-account",
+          "title": "How to Secure Your WhatsApp Account"
+        },
+        {
+          "slug": "protect-photos-private",
+          "title": "How to Keep Your Photos Private on Your Phone"
+        },
+        {
+          "slug": "check-data-breach",
+          "title": "How to Check If Your Email Was in a Data Breach"
+        },
+        {
+          "slug": "remove-personal-info-google",
+          "title": "How to Remove Your Personal Information from Google"
+        },
+        {
+          "slug": "secure-home-wifi",
+          "title": "How to Secure Your Home Wi-Fi Network"
+        },
+        {
+          "slug": "spot-fake-app",
+          "title": "How to Spot a Fake App Before Downloading It"
+        },
+        {
+          "slug": "what-are-cookies",
+          "title": "What Are Cookies on Websites and Should You Accept Them"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-03-11",
+      "category": "troubleshooting",
+      "status": "queued",
+      "topics": [
+        {
+          "slug": "computer-running-slow",
+          "title": "How to Fix a Slow Computer"
+        },
+        {
+          "slug": "internet-not-working",
+          "title": "What to Do When Your Internet Stops Working"
+        },
+        {
+          "slug": "printer-not-printing",
+          "title": "What to Do When Your Printer Is Not Printing"
+        },
+        {
+          "slug": "bluetooth-not-connecting",
+          "title": "How to Fix Bluetooth When It Won't Connect"
+        },
+        {
+          "slug": "app-keeps-crashing",
+          "title": "What to Do When an App Keeps Crashing"
+        },
+        {
+          "slug": "email-not-receiving",
+          "title": "What to Do When You Are Not Receiving Emails"
+        },
+        {
+          "slug": "phone-overheating",
+          "title": "What to Do When Your Phone Gets Too Hot"
+        },
+        {
+          "slug": "screen-too-dark",
+          "title": "How to Fix a Screen That Is Too Dark or Too Bright"
+        },
+        {
+          "slug": "no-sound-phone",
+          "title": "What to Do When Your Phone Has No Sound"
+        },
+        {
+          "slug": "computer-wont-turn-on",
+          "title": "What to Do When Your Computer Won't Turn On"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-03-12",
+      "category": "facil",
+      "status": "queued",
+      "note": "General everyday digital life topics",
+      "topics": [
+        {
+          "slug": "create-pdf-from-phone",
+          "title": "How to Create a PDF from Your Phone"
+        },
+        {
+          "slug": "sign-document-phone",
+          "title": "How to Sign a Document on Your Phone"
+        },
+        {
+          "slug": "convert-photo-to-pdf",
+          "title": "How to Convert a Photo to a PDF"
+        },
+        {
+          "slug": "set-up-parental-controls",
+          "title": "How to Set Up Parental Controls on a Phone or Tablet"
+        },
+        {
+          "slug": "use-qr-code-menu-restaurant",
+          "title": "How to Use a QR Code to See a Restaurant Menu"
+        },
+        {
+          "slug": "check-flight-status-phone",
+          "title": "How to Check Your Flight Status on Your Phone"
+        },
+        {
+          "slug": "use-phone-boarding-pass",
+          "title": "How to Use Your Phone as a Boarding Pass"
+        },
+        {
+          "slug": "read-ebook-phone",
+          "title": "How to Read a Book on Your Phone for Free"
+        },
+        {
+          "slug": "use-phone-remote-control-tv",
+          "title": "How to Use Your Phone as a TV Remote Control"
+        },
+        {
+          "slug": "measure-things-with-phone",
+          "title": "How to Measure Things Using Your Phone"
+        }
+      ]
+    }
+  ]
+}
